@@ -1,0 +1,10 @@
+sayi_dizisi=[52,33,62,12,-74,51]
+k=sayi_dizisi
+print(k)
+sayi_dizisi.sort()
+print(k)
+sayi_dizisi=[52,33,62,12,-74,51]
+k=sayi_dizisi.copy()
+print(k)
+sayi_dizisi.sort()
+print(k)
